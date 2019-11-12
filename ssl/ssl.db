@@ -1,0 +1,54 @@
+--- 
+files: 
+  certificate: 
+    christmasmovieexperience_com_bddb5_5c137_1604620799_9e3b544638ab78a56a1058df8fcdf702: 
+      created: '1573068850'
+      domains: 
+        - christmasmovieexperience.com
+        - www.christmasmovieexperience.com
+      friendly_name: 7984764
+      id: christmasmovieexperience_com_bddb5_5c137_1604620799_9e3b544638ab78a56a1058df8fcdf702
+      is_self_signed: 0
+      issuer.commonName: Sectigo RSA Domain Validation Secure Server CA
+      issuer.organizationName: Sectigo Limited
+      modulus: bddb51b38905060a91fe3120ad34edff56f72c63bb61b5c918ec406bcf71f6082801da649e381368be333fae19a5dcfa5972312e34a459816fa6e4945e781eb73b128f32c076674119ec3e11ff8bdd40e60c0ff8b456a37845c654c5f2217ce0bae80d447ec0da10a1cf461e043dedb46db0182395137da02ea45106ad373da55f7ce49ebb1348511b2c42721f1ddb063ddee2568461486df0266882254f362aec06f1765b29d867c56f09e2a63844ce2f6a5c96bffe6d5272b4865b6be73bc320f507af5757b3405889ae6279b094d10c897c05942854dbef290c5e0b3fa589ddbe2997cb6f977f18733a0b5cc46fad347d059aa380a22be49985681085c137
+      modulus_length: 2048
+      not_after: '1604620799'
+      not_before: '1572998400'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: christmasmovieexperience.com
+      validation_type: dv
+  csr: {}
+
+  key: 
+    bddb5_5c137_41ec43b7dc5414915e6bfc83802888fa: 
+      created: '1573068418'
+      friendly_name: nc_module_key_7984764
+      id: bddb5_5c137_41ec43b7dc5414915e6bfc83802888fa
+      modulus: bddb51b38905060a91fe3120ad34edff56f72c63bb61b5c918ec406bcf71f6082801da649e381368be333fae19a5dcfa5972312e34a459816fa6e4945e781eb73b128f32c076674119ec3e11ff8bdd40e60c0ff8b456a37845c654c5f2217ce0bae80d447ec0da10a1cf461e043dedb46db0182395137da02ea45106ad373da55f7ce49ebb1348511b2c42721f1ddb063ddee2568461486df0266882254f362aec06f1765b29d867c56f09e2a63844ce2f6a5c96bffe6d5272b4865b6be73bc320f507af5757b3405889ae6279b094d10c897c05942854dbef290c5e0b3fa589ddbe2997cb6f977f18733a0b5cc46fad347d059aa380a22be49985681085c137
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      bddb51b38905060a91fe3120ad34edff56f72c63bb61b5c918ec406bcf71f6082801da649e381368be333fae19a5dcfa5972312e34a459816fa6e4945e781eb73b128f32c076674119ec3e11ff8bdd40e60c0ff8b456a37845c654c5f2217ce0bae80d447ec0da10a1cf461e043dedb46db0182395137da02ea45106ad373da55f7ce49ebb1348511b2c42721f1ddb063ddee2568461486df0266882254f362aec06f1765b29d867c56f09e2a63844ce2f6a5c96bffe6d5272b4865b6be73bc320f507af5757b3405889ae6279b094d10c897c05942854dbef290c5e0b3fa589ddbe2997cb6f977f18733a0b5cc46fad347d059aa380a22be49985681085c137: 
+        christmasmovieexperience_com_bddb5_5c137_1604620799_9e3b544638ab78a56a1058df8fcdf702: ~
+    subject.commonName: 
+      christmasmovieexperience.com: 
+        christmasmovieexperience_com_bddb5_5c137_1604620799_9e3b544638ab78a56a1058df8fcdf702: ~
+  csr: 
+    commonName: {}
+
+    modulus: {}
+
+uniques: 
+  certificate: 
+    friendly_name: 
+      7984764: christmasmovieexperience_com_bddb5_5c137_1604620799_9e3b544638ab78a56a1058df8fcdf702
+  csr: 
+    friendly_name: {}
+
+  key: 
+    friendly_name: 
+      nc_module_key_7984764: bddb5_5c137_41ec43b7dc5414915e6bfc83802888fa
+    modulus: 
+      bddb51b38905060a91fe3120ad34edff56f72c63bb61b5c918ec406bcf71f6082801da649e381368be333fae19a5dcfa5972312e34a459816fa6e4945e781eb73b128f32c076674119ec3e11ff8bdd40e60c0ff8b456a37845c654c5f2217ce0bae80d447ec0da10a1cf461e043dedb46db0182395137da02ea45106ad373da55f7ce49ebb1348511b2c42721f1ddb063ddee2568461486df0266882254f362aec06f1765b29d867c56f09e2a63844ce2f6a5c96bffe6d5272b4865b6be73bc320f507af5757b3405889ae6279b094d10c897c05942854dbef290c5e0b3fa589ddbe2997cb6f977f18733a0b5cc46fad347d059aa380a22be49985681085c137: bddb5_5c137_41ec43b7dc5414915e6bfc83802888fa

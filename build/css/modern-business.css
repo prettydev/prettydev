@@ -1,0 +1,349 @@
+/* Global Styles */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+@font-face {
+    font-family: 'brusherregular';
+    src: url('../fonts/brusher-regular-webfont.woff2') format('woff2'),
+         url('../fonts/brusher-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: thegreatfont;
+    src: url('../fonts/MASTERPLAN.ttf');
+}
+
+.font-crimson{
+font-family: 'Crimson Text' !important;
+
+}
+
+.font-crimson-body-head{
+
+color: #000 !important;
+font-size: 28px !important;
+font-weight: bold;
+font-family: 'Crimson Text' !important;
+
+}
+
+.font-crimson-body-text{
+
+color: #000 !important;
+font-size: 24px !important;
+margin-bottom: 22px !important;
+font-family: 'Crimson Text' !important;
+
+}
+
+.font-crimson-body-text-white{
+color: #fff !important;
+font-size: 16px !important;
+}
+
+.font-crimson-body-text-black{
+color: #000 !important;
+font-size: 16px !important;
+}
+
+
+.font-me{
+font-family: thegreatfont !important;
+
+}
+
+.font-me-black{
+color: #000 !important;
+font-family: thegreatfont !important;
+
+}
+
+
+.navbar-inverse .navbar-nav > li > a {
+font-family: thegreatfont !important;  
+
+}
+
+#festival{
+	width: 100% !important;
+
+	background-image: url("../images/backs.jpg");
+	background-attachment: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+@font-face {
+    font-family: 'bebasregular';
+    src: url('../fonts/bebas-webfont.woff2') format('woff2'),
+         url('../fonts/bebas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+html,
+body {
+    height: 100%;
+	font-family: 'Open Sans', sans-serif;
+	background:#f2f3f4;
+}
+
+body {
+    padding-top: 97px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+
+
+.navbar-brand {padding-top:0px; padding-bottom:0px;}
+.navbar {min-height:100px;}
+.buytickets {background:#CC0000; color:#fff!important; padding:20px 36px!important;}
+.buytickets:hover {background:#CC0000!important; color:#fff!important; }
+.navbar-nav {padding-top:19px;}
+.navbar-inverse .navbar-nav > li > a {color:#fff; font-size:24px; font-family:bebasregular;}
+.navbar-inverse .navbar-nav > li > a:hover {color:#CC0000;}
+.navbar-inverse .navbar-nav > li > a.active {color:#CC0000;}
+.pad-right66 {padding-right:35px!important;}
+.pad-right166 {padding-right:100px!important;}
+.pad-top25 {padding-top:19px!important;}
+/* Home Page Carousel */
+
+header.carousel {
+    height: 100%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+.innercarouselheight{height: 70%!important;}
+.innercarousel-caption{bottom:20%!important;}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: right;
+    background-size: cover;
+}
+
+.carousel-caption {right:10%; left:10%;}
+.carousel-caption h2 {font-size:80px; font-family: brusherregular; color:#CC0000;}
+.carousel-caption {bottom:25%;}
+.carousel-caption {bottom:23%;}
+.carousel-caption p {font-size:20px;}
+h1.page-header {font-size:50px; font-family: brusherregular; color:#CC0000; text-align:center; border-bottom:0px;margin-top:70px; margin-bottom:31px; padding-bottom:0px;}
+p.festivalintro{font-size:15px; color:#fff; text-align:center; margin-bottom:30px;}
+.panel-body h4 {font-size:30px; color:#1d1d1d;font-family: brusherregular;margin-top:0px;}
+.panel-body p {font-size:15px; color:#a8a8a8;}
+div#blog-project .panel-body h4 {color: #CC0000;}
+div#blog-project .panel-body p {color: #fff;}
+div#home-side-bar {
+    border: 2px solid #CC0000;
+}
+
+
+.ticketsection {background-image:url('../images/ticketbg.jpg'); background-position: center; background-size: cover;margin-top:50px;}
+.tickethead h4 {font-size:60px; font-family: brusherregular; color:#CC0000; text-align:center; margin-top:75px; margin-bottom:44px; padding-bottom:0px;}
+.ticketblock {position:relative; margin-bottom:45px; }
+.ticketblock h4 {text-align:center; color:#1d1d1d; font-size:30px;margin-top:0px; padding-bottom:0px; margin-bottom:15px;background:#fff; padding-top:30px;font-family:bebasregular;}
+.ticketblock h5 {text-align:center; color:#a8a8a8; font-size:18px;margin-top:0px; padding-bottom:0px; padding-bottom:60px;background:#fff;font-family:bebasregular;}
+.datewrap {background:#fff;}
+.bookticketwrap {text-align:center;margin-top:-20px;}
+.bookticketwrap a {background:#CC0000; color:#fff; font-size:14px; padding:15px 18px; text-decoration:none;font-family:bebasregular;}
+.w100{width:100%;height:auto;}
+.aligncenter{text-align:center;}
+.innercarousel-caption i {margin-right:10px; color:#CC0000; font-size:30px; vertical-align:-4px;}
+
+
+/* 404 Page Styles */
+
+/* edited by agile soft
+.panel-heading .accordion-toggle:after {
+    /* symbol for "opening" panels */
+    font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+    content: "\e114";    /* adjust as needed, taken from bootstrap.css */
+    float: right;        /* adjust as needed */
+    color: grey;         /* adjust as needed */
+	font-size:8px;
+	
+}
+
+
+.panel-heading .accordion-toggle.collapsed:after {
+    /* symbol for "collapsed" panels */
+    content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+	
+}
+*/
+i.glyphicon.glyphicon-plus {
+    float: right !important;
+    font-size: 12px !important;
+}
+i.glyphicon.glyphicon-plus.plus {
+    float: right;
+    font-size: 12px;
+}
+.panel-title {
+    color: white !important;
+}
+.panel.panel-default.agile {
+    background: black;
+    color: white;
+}
+html, body.skipton {
+    background: black;
+}
+.carousel-inner.agile2 {
+    position: relative;
+    bottom: 12px;
+}
+nav.navbar.navbar-inverse.navbar-fixed-top.nav-agile {
+    border-bottom: 0px;
+}
+/* end of edited by agile */
+.panel-default {
+    border-color: #CC0000 !important;
+}
+.panel-default > .panel-heading {background:#CC0000; }
+.panel-group .panel {border-radius:0px!important;}
+
+a.collapsed, a.accordion-toggle {text-decoration:none!important;}
+
+.panel-heading.active {
+  border:1px solid #CC0000; border-radius:0px; color:#ffffff!important;
+}
+
+.panel-heading.active > h4{
+  color:#CC0000; border-radius:0px;
+  
+ 
+} 
+ .peanalpad{padding-left:0px; padding-right:0px;}
+.error-404 {
+    font-size: 100px;
+}
+.socialbtnfooter {background:#333333; border-radius:0px; color:#fff; font-size:25px;padding:6px 16px; margin-top:25px; margin-right:10px;}
+.socialwrap {text-align:center;}
+.socialbtnfooter:hover {color:#fff; background:#CC0000;}
+ul.ticketdetails {padding-left:0px;}
+ul.ticketdetails li {list-style:none; margin-bottom:20px; }
+ul.ticketdetails li h4 {color:#fff; background:#CC0000; font-size:20px; font-family:bebasregular; padding:16px 0px; margin-top:0px; margin-bottom:0px; text-align:center;}
+ul.ticketdetails li p {background:#fff; margin-bottom:30px; line-height:25px; padding:20px;}
+.sessionticket {background:#fff; margin-bottom:30px; padding:30px 0px;  }
+.sessionticket h4 {font-size:24px; margin-top:0px; }
+.sessionticket h5 {font-size:13px; margin-top:0px;  color:#a8a8a8;}
+.formmargin {margin-top:10px;}
+.form-control {border-radius:0px; height:50px;}
+.buyticket{font-size:15px; margin-top:0px; font-family:bebasregular; color:#fff; background:#CC0000; border:0px; border-radius:0px;padding-top: 15px;padding-bottom: 15px; padding-left:20px; padding-right:20px;}
+/* Footer Styles */
+.maxwidth75 {max-width:75px;}
+.map {
+															-webkit-filter: grayscale(100%);
+															   -moz-filter: grayscale(100%);
+																-ms-filter: grayscale(100%);
+																 -o-filter: grayscale(100%);
+																	filter: grayscale(100%);
+														}
+														
+ul.ticketinclusionhighlight {margin:0; padding:0; background:#fff;padding:20px;}														
+ul.ticketinclusionhighlight li {margin-bottom:5px; }															
+														
+footer {
+    margin: 50px 0 0 0;
+	padding:20px 0px 10px 0px;
+	background:#000;
+	}
+.innerfootet {margin-top:0px;}	
+	
+.love {text-align:right; padding-top:35px;}	
+	
+.love span {color:#fff; font-family:thegreatfont; font-size:14px;}	
+.love i {margin-left:20px; margin-right:20px; font-size:23px; color:#ff5e5e;}
+/* Responsive Styles */
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+	.mobhide {display:none;}
+	.mbot20{margin-bottom:20px;}
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 70%;
+		
+    }
+	.carousel-caption h2 {font-size:37px;}
+	.carousel-caption {bottom:20%;}
+	.navbar-collapse {margin-top:50px;}
+	
+	
+	.buytickets {margin-left: 15px; margin-top:15px; margin-bottom:15px;
+	width: 178px;}
+	
+}
+@media(min-width:1500px) {
+.carousel-caption {bottom:35%;}
+.carousel-caption {right:22%; left:22%;}
+.innercarousel-caption {bottom:33%!important;}
+
+
+
+}
+
+@media(min-width:320px) and (max-width:990px) {
+.love {text-align:center;}
+.socialwrap {text-align:center;}
+.footerlogo {text-align:center;}
+}
+
+@media(min-width:768px) and (max-width:1024px) {
+.pad-right66 {padding-right:0px!important;}
+.pad-right166 {padding-right:20px!important;}
+}
+
+@media(min-width:991px) and (max-width:1300px) {
+.break1024 {width:100%;}
+}
+@media(min-width:1025px)  {
+.align-rightbigscreen{text-align:right;}
+.pad-left40{padding-left:50px;}
+.pad-right40{padding-right:50px;}
+}
+div#blog-project .row {
+    margin-bottom: 35px;
+}
+
+
+div#home-side-bar i.fa.fa-ticket {
+    position: absolute;
+    left: 25px;
+    right: 0;
+    padding-top: 5px;
+    display: inline-block;
+}
+
+div#home-side-bar ul.ticketinclusionhighlight li {
+    padding: 0px 20px;
+}
+
+div#home-side-bar ul.ticketinclusionhighlight {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    padding: 10px;
+    color: #fff;
+}
+div#home-side-bar ul.ticketdetails li h4 {
+background:transparent;
+}

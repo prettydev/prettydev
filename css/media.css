@@ -1,0 +1,66 @@
+.dfcd {
+    background: unset;
+    border: unset;
+}
+button.btn.btn-info.btn-lg.dfcd {
+    background: unset;
+    border: unset;
+    box-shadow: unset;
+}
+.modal-body li {
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+@media screen and (max-width: 480px) {
+ .row {
+    margin-right: 0;
+    margin-left: 0;
+}
+.buytickets img {
+    width: 100% !important;
+    margin-top: 62px;
+	clear:both;
+}
+.navbar-toggle {
+    padding: 5px 4px;
+    margin-top: 25px;
+    margin-right: 0;
+    margin-bottom: 0px;
+}
+.visit-day ul li {
+    float: left;
+    width: 100%;
+}
+.visit-day ul li {
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.visit-day ul li a {
+    width: 100%;
+}
+#selected-day {
+    height: 100%;
+}
+.arrow.col-md-2 {
+    margin-top: 0;
+}
+.dx{
+	text-align:center;
+} 
+h1.page-header {
+    font-size: 30px;
+	line-height: 41px;
+}
+.xdd {
+    margin-top: -5px;
+}
+.cmss {
+    margin-bottom: 21px;
+}
+.col-md-4.col-lg-4.col-sm-12.szsss {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.display_nonn{display:none;}
+}

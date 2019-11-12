@@ -1,0 +1,79 @@
+[16-Nov-2018 15:29:12 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'chrimrbz_manchester'@'localhost' to database 'chrimrbz_movies' in /home/chrimrbz/public_html/newbuild/config.php on line 10
+[16-Nov-2018 15:29:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 17
+[16-Nov-2018 15:29:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 164
+[16-Nov-2018 15:29:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 281
+[16-Nov-2018 15:29:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 282
+[16-Nov-2018 17:42:12 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'chrimrbz_manchester'@'localhost' to database 'chrimrbz_movies' in /home/chrimrbz/public_html/newbuild/config.php on line 10
+[16-Nov-2018 17:42:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 17
+[16-Nov-2018 17:42:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 164
+[16-Nov-2018 17:42:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 281
+[16-Nov-2018 17:42:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 282
+[16-Nov-2018 18:18:21 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'chrimrbz_manchester'@'localhost' to database 'chrimrbz_movies' in /home/chrimrbz/public_html/newbuild/config.php on line 10
+[16-Nov-2018 18:18:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 17
+[16-Nov-2018 18:18:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 164
+[16-Nov-2018 18:18:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 281
+[16-Nov-2018 18:18:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 282
+[16-Nov-2018 18:43:46 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'chrimrbz_manchester'@'localhost' to database 'chrimrbz_movies' in /home/chrimrbz/public_html/newbuild/config.php on line 10
+[16-Nov-2018 18:43:46 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 17
+[16-Nov-2018 18:43:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 164
+[16-Nov-2018 18:43:46 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 281
+[16-Nov-2018 18:43:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 282
+[16-Nov-2018 19:01:01 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'chrimrbz_manchester'@'localhost' to database 'chrimrbz_movies' in /home/chrimrbz/public_html/newbuild/config.php on line 10
+[16-Nov-2018 19:01:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 17
+[16-Nov-2018 19:01:01 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 164
+[16-Nov-2018 19:01:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 281
+[16-Nov-2018 19:01:01 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 282
+[16-Nov-2018 19:19:27 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'chriadsfmrbz_movies'@'localhost' (using password: YES) in /home/chrimrbz/public_html/newbuild/config.php on line 9
+[16-Nov-2018 19:19:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 17
+[16-Nov-2018 19:19:27 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 164
+[16-Nov-2018 19:19:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 281
+[16-Nov-2018 19:19:27 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrimrbz/public_html/newbuild/sales/hottub.php on line 282
+[19-Nov-2018 08:05:39 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=07796 306749 &amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%2315104+-+15104.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[19-Nov-2018 08:05:39 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[19-Nov-2018 08:25:27 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=07796 306749 &amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%2315104+-+15104.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[19-Nov-2018 08:25:27 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[20-Nov-2018 07:31:29 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=07983 565 858&amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%2312497+-+12497.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[20-Nov-2018 07:31:29 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[20-Nov-2018 07:35:42 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=07904 781161&amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%231330+-+1330.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[20-Nov-2018 07:35:42 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[20-Nov-2018 17:48:15 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=07592148136 &amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%237801+-+7801.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[20-Nov-2018 17:48:15 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[21-Nov-2018 05:34:45 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=07592148136 &amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%237801+-+7801.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[21-Nov-2018 05:34:45 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[21-Nov-2018 07:12:01 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=07983 565 858&amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%2312497+-+12497.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[21-Nov-2018 07:12:01 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[21-Nov-2018 09:34:32 America/New_York] PHP Fatal error:  Uncaught exception 'Mailgun\Connection\Exceptions\InvalidCredentials' with message 'Your credentials are incorrect.' in /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Connection/RestClient.php:256
+Stack trace:
+#0 /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Connection/RestClient.php(110): Mailgun\Connection\RestClient->responseHandler(Object(GuzzleHttp\Psr7\Response))
+#1 /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Connection/RestClient.php(179): Mailgun\Connection\RestClient->send('POST', 'christmasmovies...', Array, Array)
+#2 /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Mailgun.php(204): Mailgun\Connection\RestClient->post('christmasmovies...', Array, Array)
+#3 /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Mailgun.php(135): Mailgun\Mailgun->post('christmasmovies...', Array, Array)
+#4 /home/chrimrbz/public_html/mail.php(22): Mailgun\Mailgun->sendMessage('christmasmovies...', Array)
+#5 /home/chrimrbz/public_h in /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Connection/RestClient.php on line 256
+[21-Nov-2018 12:12:09 America/New_York] PHP Fatal error:  Uncaught exception 'Mailgun\Connection\Exceptions\InvalidCredentials' with message 'Your credentials are incorrect.' in /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Connection/RestClient.php:256
+Stack trace:
+#0 /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Connection/RestClient.php(110): Mailgun\Connection\RestClient->responseHandler(Object(GuzzleHttp\Psr7\Response))
+#1 /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Connection/RestClient.php(179): Mailgun\Connection\RestClient->send('POST', 'christmasmovies...', Array, Array)
+#2 /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Mailgun.php(204): Mailgun\Connection\RestClient->post('christmasmovies...', Array, Array)
+#3 /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Mailgun.php(135): Mailgun\Mailgun->post('christmasmovies...', Array, Array)
+#4 /home/chrimrbz/public_html/mail.php(22): Mailgun\Mailgun->sendMessage('christmasmovies...', Array)
+#5 /home/chrimrbz/public_h in /home/chrimrbz/public_html/vendor/mailgun/mailgun-php/src/Mailgun/Connection/RestClient.php on line 256
+[22-Nov-2018 16:13:20 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=07592148136 &amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%237801+-+7801.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[22-Nov-2018 16:13:20 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[06-Dec-2018 10:28:29 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=0161 707 1516&amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%2312648+-+12648.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[06-Dec-2018 10:28:29 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[10-Dec-2018 15:56:20 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=+44 7947 854647&amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%2311361+-+11361.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[10-Dec-2018 15:56:20 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
+[19-Dec-2018 05:05:41 America/New_York] PHP Warning:  fopen(https://api.textmarketer.co.uk/gateway/?username=tp4m3n&amp;password=FCtb7n&amp;option=xml&amp;to=07805323753 &amp;message=Confirmed%3A+1+Tickets+for+Christmas+Drive+In+Invoice+%236193+-+6193.+Confirmation+has+been+sent+to+your+email+address.&amp;orig=Drive+IN): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/chrimrbz/public_html/mail.php on line 61
+[19-Dec-2018 05:05:41 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/chrimrbz/public_html/mail.php on line 62
