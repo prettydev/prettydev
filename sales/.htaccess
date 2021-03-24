@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "sales"
-AuthUserFile "/home/chrimrbz/.htpasswds/public_html/sales/passwd"
-require valid-user

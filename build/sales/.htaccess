@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "My Protected Area"
-AuthUserFile /home/admin/web/thegreatestfestival.com/public_html/sales/.htpasswd
-Require valid-user
