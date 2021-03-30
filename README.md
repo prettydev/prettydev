@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Hello! I'm fullstack React/Node developer!</h2>
+<h2 align="center">Hello! I'm fullstack React/Node developer!</h2>
 
 <p align="center">
   <a href="https://twitter.com/prettydevman" target="_blank">
