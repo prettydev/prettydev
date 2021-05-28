@@ -13,4 +13,4 @@ Since 2015 I've been developing web&mobile development as well as backend. I've 
 
 TypeScript | GraphQL | React.js | Next.js | Tailwindcss | ReactNative | Node.js | NestJS | Firebase
 
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/prettydev)
+<!-- [![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/prettydev) -->
