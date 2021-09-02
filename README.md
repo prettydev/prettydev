@@ -7,7 +7,7 @@
 </p>
 
 I work as a full-stack web/mobile developer with React/Node skills.
-Since 2015 I've been developing web&mobile development as well as backend. I've had the chance to immerse myself in many different projects, contributing to making this world more fun and efficient through brilliant ideas & code. 😍
+Since 2013 I've been developing web&mobile development as well as backend. I've had the chance to immerse myself in many different projects, contributing to making this world more fun and efficient through brilliant ideas & code. 😍
 
 ### What I'm focusing on 👨‍💻
 
